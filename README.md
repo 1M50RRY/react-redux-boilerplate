@@ -1,4 +1,4 @@
-# ReactJS/Redux boilerplate with webpack configured.
+# ReactJS/Redux boilerplate with webpack configured
 
 ## Getting started
 - npm i - installs deps
